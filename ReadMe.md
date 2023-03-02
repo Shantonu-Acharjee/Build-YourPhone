@@ -1,5 +1,7 @@
-<h2 align = "center">Build-YourPhone | Shantonu Acharjee | Its Me Shantonu<h2>
+<h1 align = "center">Build-YourPhone | Shantonu Acharjee | Its Me Shantonu</h1>
 
+# Demo
+👉 For demo click here [Build-YourPhone](https://shantonu-acharjee.github.io/Build-YourPhone.com/)
 # Menu
 - Brand
 - Model
