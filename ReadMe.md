@@ -1,7 +1,6 @@
-<h1 align = "center">Build-YourPhone | Shantonu Acharjee | Its Me Shantonu<h1>
+<h2 align = "center">Build-YourPhone | Shantonu Acharjee | Its Me Shantonu<h2>
 
 # Menu
-
 - Brand
 - Model
 - Network | GSM | HSPA | LTE
