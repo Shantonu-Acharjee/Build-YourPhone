@@ -200,7 +200,7 @@ main .container .row{
 
 
 
-.Card select{
+.Card select, .Card input{
     text-align: center;
     width: 50%;
 }
