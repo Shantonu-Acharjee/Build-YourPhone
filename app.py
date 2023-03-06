@@ -14,9 +14,14 @@ data = json.load(f)
 app = Flask(__name__)
 
 @app.route("/", methods=['GET', 'POST'])
-def home():
-    model = request.form.get('model')
-    return render_template('index.html', df = df, model = model)
+def home(): 
+    
+    return render_template('index.html', df = df, )
+    
+
+    
+    
+
 
 
 
