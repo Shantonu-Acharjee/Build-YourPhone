@@ -5,7 +5,7 @@ import pandas as pd
 
 
 f = open('static/MobileMenu.json', 'r')
-df = pd.read_csv('static/s.csv')
+df = pd.read_csv('static/MobilePhone.csv')
 data = json.load(f)
 
 
